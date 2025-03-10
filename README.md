@@ -5,16 +5,13 @@
 
 A new Flutter project.
 
-## Getting Started
+Đây là một ứng dụng đơn giản để ứng dụng những kiến thức đã học về flutter
+- Chức năng chính của ứng dụng là hiển thị các chi phí của người dùng thông qua các thẻ và biểu đồ
+- Có dử dụng việc thêm chủ đề và căn chỉnh giao diện sao cho phù hợp với điều kiện và các loại thiết bị
+- Một số hình ảnh của ứng dụng
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/d775674b-f4f9-4f81-8121-753b95eb4b5a)
+![image](https://github.com/user-attachments/assets/2e26b7f3-31a2-415d-a819-ada9174e2fed)
+![image](https://github.com/user-attachments/assets/e0ef6b55-e7f2-40b7-b376-afb1c1fe2269)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 7015fbf (first commit)
