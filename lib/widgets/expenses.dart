@@ -29,8 +29,9 @@ class _ExpensesState extends State<Expenses> {
   ];
 
   // Hiển thị phần thêm mục chi phí mới
-  void _openExpenseOverLay() {
+  void _openAddExpenseOverLay() {
     showModalBottomSheet(
+      useSafeArea: true,
         isScrollControlled: true,
         context: context,
         builder: (ctx) => NewExpense(onAddExpense: _addExpense));
@@ -85,7 +86,7 @@ class _ExpensesState extends State<Expenses> {
         title: const Text('Flutter ExpenseTracker'),
         actions: [
           IconButton(
-            onPressed: _openExpenseOverLay,
+            onPressed: _openAddExpenseOverLay,
             icon: const Icon(Icons.add),
           )
         ],
